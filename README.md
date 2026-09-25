@@ -4,6 +4,8 @@ Artisan is a native macOS task tracker built around a small floating task bar an
 
 This is an early proof of concept. Tasks are stored as ordinary Markdown files and workflow settings as YAML, so your data stays readable and portable.
 
+Artisan is the current prototype name and data-folder name. Choose a distinct product name before distributing a public app build.
+
 ## Features
 
 - **Floating task bar:** quick capture, a Pending button with a task count, and a button that opens or focuses the tracker.
